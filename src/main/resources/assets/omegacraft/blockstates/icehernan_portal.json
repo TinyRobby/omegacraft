@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "omegacraft:block/icehernan_portal_ew"
+    },
+    "axis=x": {
+      "model": "omegacraft:block/icehernan_portal_ns"
+    }
+  }
+}

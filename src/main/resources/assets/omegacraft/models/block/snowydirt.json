@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omegacraft:blocks/pixil-frame-08",
+    "up": "omegacraft:blocks/pixil-frame-07",
+    "north": "omegacraft:blocks/pixil-frame-08",
+    "east": "omegacraft:blocks/pixil-frame-08",
+    "south": "omegacraft:blocks/pixil-frame-08",
+    "west": "omegacraft:blocks/pixil-frame-08",
+    "particle": "omegacraft:blocks/pixil-frame-08"
+  }
+}

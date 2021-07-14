@@ -1,0 +1,109 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Coldwater",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coldwater"
+    },
+    {
+      "name": "Snowydirt",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowydirt"
+    },
+    {
+      "name": "SnowyHell",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snowy_hell"
+    },
+    {
+      "name": "Icehernan",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "icehernan",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Yeti",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yeti"
+    },
+    {
+      "name": "Freesingcold",
+      "type": "achievement",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "freesingcold"
+    },
+    {
+      "name": "IceSword",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_sword"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "fluid.coldwater": "Coldwater",
+      "item.omegacraft.icehernan": "Icehernan Portal Igniter",
+      "item.omegacraft.coldwater_bucket": "Coldwater Bucket",
+      "block.omegacraft.snowydirt": "Snowydirt",
+      "advancements.freesingcold.descr": "You entered Icehernan!",
+      "entity.omegacraft.yeti": "Yeti",
+      "advancements.freesingcold.title": "Freesing cold! ",
+      "item.omegacraft.yeti_spawn_egg": "Yeti Spawn Egg",
+      "item.omegacraft.ice_sword": "Ice Sword",
+      "biome.omegacraft.snowy_hell": "Snowy Hell"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "omegacraft",
+    "modName": "omegacraft",
+    "version": "1.0.0",
+    "author": "Robby Davis, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.omegacraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
